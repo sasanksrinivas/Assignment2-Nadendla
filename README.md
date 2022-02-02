@@ -23,7 +23,7 @@ I recommend the following food list
 [About me](AboutMe.md)
 
 ***
-####Physical Activities
+#### Physical Activities</br>
 The table indicates the sports name, location and it's price in dollors
 
 | Name | Location | Amount |
