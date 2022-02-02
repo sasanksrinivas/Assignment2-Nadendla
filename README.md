@@ -35,9 +35,9 @@ The table indicates the sports name, location and it's price in dollors
 
 ***
 ### Quotes
->“Cowards die many times before their deaths; The valiant never taste of death but once.”
-  -*Julius Caesar
+>“Cowards die many times before their deaths; The valiant never taste of death but once.”</br>
+  -*Julius Caesar*
 >"Good night, good night! Parting is such sweet sorrow,
- That I shall say good night till it be morrow.”
--*Romeo and Juliet
+ That I shall say good night till it be morrow.”</br>
+-*Romeo and Juliet*
 
