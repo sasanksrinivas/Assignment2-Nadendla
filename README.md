@@ -26,7 +26,7 @@ I recommend the following food list
 #### Physical Activities</br>
 The table indicates the sports name, location and it's price in dollors
 
-| Name  Location | Amount |
+| Name |  Location | Amount |
 | --- | --- | ---: |
 | TableTennis | Rec | 4 |
 | Badminton | Colden | 5 |
