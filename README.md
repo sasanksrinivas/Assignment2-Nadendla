@@ -8,12 +8,12 @@ We can find Indian special dosa in **DosaArt** to near AKF
 
 ***
 
-## Airport to Spensers
+## Airport to AKF
 
 The airport that is close to spensers is Indira International airport
 1.Book a cab to Ameerpet
 2.from Ameerpet take a auto to kukatpally
-3.walk 150 meters east to reach spensers
+3.walk 150 meters east to reach AKF which is quite opposite to Spenser
 
 I recommend the following food list
 * Cup Cakes
