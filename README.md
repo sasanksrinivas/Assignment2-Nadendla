@@ -41,3 +41,23 @@ The table indicates the sports name, location and it's price in dollors
  That I shall say good night till it be morrow.”</br>
 -*Romeo and Juliet*
 
+***
+
+### Code Fencing
+>An ancient method which appeared about 200 BC in Pingala's Hindu classic Chandah-sutra (and now called left-to-right binary exponentiation) can be described as follows. First write the exponent 25 in binary: 11001. Remove the first binary digit leaving 1001 and then replace each remaining '1' with the pair of letters 'sx' and each '0' with the letter 's' to get: sx s s sx. Now interpret 's' to mean square, and 'x' to mean multiply by x, so we have:
+
+square, multiply by x, square, square, square, multiply by x.. [description]<https://primes.utm.edu/glossary/page.php?sort=BinaryExponentiation>
+
+```
+long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+}
+
+```
+[description]<https://cp-algorithms.com/algebra/binary-exp.html>
