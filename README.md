@@ -22,3 +22,12 @@ I recommend the following food list
 * moisturizers</br>
 [About me](AboutMe.md)
 
+***
+Physical Activities
+| Name | Location | Amount |
+| --- | --- | ---: |
+| TableTennis | Rec | 4 |
+| Badminton | Colden | 5 |
+| Squash | Rec | 6 |
+| Cricket | Parking Area | 10 |
+
